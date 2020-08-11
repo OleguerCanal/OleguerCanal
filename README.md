@@ -3,7 +3,7 @@
 Hi GitHuber! My name is Oleguer and this is what I like to waste my time with :blush:
 
 ## About me
-I am passioned about AI (__Reinforcement Learning__ in particular) and have some experience with robotic perception.
+I am interested in AI (__Reinforcement Learning__ in particular) and have some experience with robotic perception.
 
 I simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) center at the [Polytechnic University of Catalonia (UPC)](https://www.upc.edu/en).
 Subsequently, I [researched](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl) on the application of modern computer vision techniques to robotic tactile feedback at the [MCube Lab](https://fme.upc.edu/en) in the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/).
