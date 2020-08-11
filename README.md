@@ -1,6 +1,6 @@
-### Welcome to Oleguer's GitHub 👋
+### Welcome to my GitHub 👋
 
-Hi GitHuber! This is where I like to waste my time with :blush:
+Hi GitHuber! My name is Oleguer and this is where I like to waste my time at :blush:
 I am passioned about AI (__Reinforcement Learning__ in particular) and have some experience with robotic perception.
 
 ## About me
