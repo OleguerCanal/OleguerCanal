@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-Hi GitHuber! My name is Oleguer and this is what I like to waste my time with :blush:
+Hi githuber! My name is Oleguer and this is what I like to waste my time with :blush:
 
 ## About me
 I am interested in AI (__Reinforcement Learning__ in particular) and have some experience with robotic perception.
@@ -9,7 +9,7 @@ I simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a 
 Subsequently, I [researched](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl) on the application of modern computer vision techniques to robotic tactile feedback at the [MCube Lab](https://fme.upc.edu/en) in the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/).
 Later, I worked as a robotics perception engineer at [XYZ Robotics (Shanghai)](http://en.xyzrobotics.ai/), and now contributing at the division of [Robotics Perception and Learning (RPL)](https://www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439) of [KTH Royal Institute of Technology](https://www.kth.se/en) where I'm doing a [M.Sc. in Machine Learning](https://www.kth.se/en/studies/master/machinelearning/description-1.48533).
 
-## What can you find here
+## About my GitHub
 
 #### Reinforcement Learning
 - RL Content Website: [CampusAI](https://campusai.github.io/)
