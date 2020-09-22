@@ -1,5 +1,3 @@
-### Welcome to my GitHub 👋
-
 Hi githuber! My name is Oleguer and this is what I like to waste my time with :blush:
 
 ## About me
