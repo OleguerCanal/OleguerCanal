@@ -16,7 +16,7 @@ Later, I worked as a robotics perception engineer at [XYZ Robotics (Shanghai)](h
 
 #### Machine Learning
 - DL Framework re-implementation: [Toy DeepLearning Framework](https://github.com/OleguerCanal/Toy-DeepLearning-Framework)
-- Paper re-implementation: [Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM)
+- Paper re-implementation: [Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM), [Hamiltonian Generative Networks](https://github.com/CampusAI/Hamiltonian-Generative-Networks)
 - Kaggle Competitions: [Digit Recognizer](https://github.com/OleguerCanal/kaggle_digit-recognizer), [SIIM-ACR Pneumothorax Segmentation](https://github.com/OleguerCanal/kaggle_Pneumothorax-Segmentation)
 
 #### Other.
