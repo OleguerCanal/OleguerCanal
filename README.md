@@ -1,4 +1,4 @@
-Hi githuber! My name is Oleguer and this is what I like to waste my time with :blush:
+[![Oleguer's github stats](https://github-readme-stats.vercel.app/api?username=OleguerCanal)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 I am interested in AI (__Reinforcement Learning__ in particular) and have some experience with robotic perception.
