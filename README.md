@@ -1,4 +1,5 @@
 [![Oleguer's github stats](https://github-readme-stats.vercel.app/api?username=OleguerCanal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleguerCanal)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 I am interested in AI (__Reinforcement Learning__ in particular) and have some experience with robotic perception.
