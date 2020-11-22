@@ -7,7 +7,7 @@ I am interested in AI (__Reinforcement Learning__ in particular) and have some e
 
 I simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) center at the [Polytechnic University of Catalonia (UPC)](https://www.upc.edu/en).
 Subsequently, I [researched](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl) on the application of modern computer vision techniques to robotic tactile feedback at the [MCube Lab](https://fme.upc.edu/en) in the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/).
-Later, I worked as a robotics perception engineer at [XYZ Robotics (Shanghai)](http://en.xyzrobotics.ai/), and now contributing at the division of [Robotics Perception and Learning (RPL)](https://www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439) of [KTH Royal Institute of Technology](https://www.kth.se/en) where I'm doing a [M.Sc. in Machine Learning](https://www.kth.se/en/studies/master/machinelearning/description-1.48533).
+Later, I worked as a robotics perception engineer at [XYZ Robotics (Shanghai)](http://en.xyzrobotics.ai/), and now contributing at the division of [Robotics Perception and Learning (RPL)](https://www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439) of [KTH Royal Institute of Technology](https://www.kth.se/en) where I'm doing a [M.Sc. in Machine Learning](https://www.kth.se/en/studies/master/machinelearning/description-1.48533) and helping as a TA for [KTH Advanced Machine Learning course](https://www.kth.se/student/kurser/kurs/DD2434?l=en).
 
 ## About my GitHub
 
