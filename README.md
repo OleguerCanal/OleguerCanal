@@ -11,10 +11,10 @@ Later, I worked as a robotics perception engineer at [XYZ Robotics (Shanghai)](h
 
 ## About my GitHub
 
-- Websites: [CampusAI](https://campusai.github.io/) (ML and RL content), [Algorithmics](https://github.com/OleguerCanal/Algorithmics) (Algorithmics theory)
-- Paper re-implementation: [Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM), [Hamiltonian Generative Networks](https://github.com/CampusAI/Hamiltonian-Generative-Networks), [RL-algorithms](https://github.com/OleguerCanal/RL-algorithms), [Toy DeepLearning Framework](https://github.com/OleguerCanal/Toy-DeepLearning-Framework)
-- Kaggle Competitions: [Digit Recognizer](https://github.com/OleguerCanal/kaggle_digit-recognizer), [SIIM-ACR Pneumothorax Segmentation](https://github.com/OleguerCanal/kaggle_Pneumothorax-Segmentation)
-- RL projects: [Self-Driving](https://github.com/OleguerCanal/KTH_MA-autonomous-driving), [RocketLeague](https://github.com/CampusAI/RocketLeague-RL), [Terrarium](https://github.com/CampusAI/DD2438_Common_Terrarium)
+- __Websites:__ [CampusAI](https://campusai.github.io/) (ML and RL content), [Algorithmics](https://github.com/OleguerCanal/Algorithmics) (Algorithmics theory)
+- __Paper re-implementations:__ [Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM), [Hamiltonian Generative Networks](https://github.com/CampusAI/Hamiltonian-Generative-Networks), [RL-algorithms](https://github.com/OleguerCanal/RL-algorithms), [Toy DeepLearning Framework](https://github.com/OleguerCanal/Toy-DeepLearning-Framework)
+- __Kaggle Competitions:__ [Digit Recognizer](https://github.com/OleguerCanal/kaggle_digit-recognizer), [SIIM-ACR Pneumothorax Segmentation](https://github.com/OleguerCanal/kaggle_Pneumothorax-Segmentation)
+- __RL projects:__ [Self-Driving](https://github.com/OleguerCanal/KTH_MA-autonomous-driving), [RocketLeague](https://github.com/CampusAI/RocketLeague-RL), [Terrarium](https://github.com/CampusAI/DD2438_Common_Terrarium)
 
 ### Misc.
 - Communication between c++ and python: [cpp-python socket](https://github.com/OleguerCanal/cpp-python_socket)
