@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleguerCanal&layout=compact&exclude_repo=KTH_MA-autonomous-driving)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
-I am interested in ML (__Reinforcement Learning__ in particular) and have some experience with robotic perception. My life in bulletpoints:
+Interested in ML (__Reinforcement Learning__ in particular) and have some experience with robotic perception. My life in bulletpoints:
 
 - Simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) center at the [Polytechnic University of Catalonia (UPC)](https://www.upc.edu/en). (Barcelona)
 - [Researched](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl) on the application of modern computer vision techniques to robotic tactile feedback at the [MCube Lab](https://fme.upc.edu/en) in the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/). (Boston)
