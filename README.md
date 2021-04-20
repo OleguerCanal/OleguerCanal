@@ -23,8 +23,10 @@ My life in bulletpoints:
 - Communication between c++ and python: [cpp-python socket](https://github.com/OleguerCanal/cpp-python_socket)
 - Bayesian Optimization: [HyperParameter-Optimizer](https://github.com/CampusAI/HyperParameter-Optimizer)
 
-
+<!--
 [![Oleguer's github stats](https://github-readme-stats.vercel.app/api?username=OleguerCanal)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
 **OleguerCanal/OleguerCanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
