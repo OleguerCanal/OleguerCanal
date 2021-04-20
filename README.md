@@ -5,11 +5,11 @@
 Interested in __Machine Learning__ and __Reinforcement Learning__ (multi-task and meta-rl in particular) and have some experience with robotic perception.
 My life in bulletpoints:
 
-- 2021-Today [remote]: Joined [EA Games](https://www.ea.com/) to conduct my M.Sc. thesis on successor features for knowledge transfer in RL to improve automatic game-testing.
-- 2019-Today [Stockholm]: [M.Sc. in Machine Learning](https://www.kth.se/en/studies/master/machinelearning/description-1.48533) at [KTH Royal Institute of Technology](https://www.kth.se/en) where I helped as a TA for [KTH Advanced Machine Learning course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) and ontributed to the division of [Robotics Perception and Learning (RPL)](https://www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439) as a research engineer.
-- 2018-2019 [Shanghai]: Worked as a robotics perception engineer at [XYZ Robotics](http://en.xyzrobotics.ai/).
-- 2017-2018 [Boston]: [Researched](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl) on the application of modern computer vision techniques to robotic tactile feedback at the [MCube Lab](https://fme.upc.edu/en) in the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/).
-- 2013-2017 [Barcelona]: Simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) center at the [Polytechnic University of Catalonia (UPC)](https://www.upc.edu/en).
+- 2021-Today: Joined [EA Games](https://www.ea.com/) to conduct my M.Sc. thesis on successor features for knowledge transfer in RL to improve automatic game-testing.
+- 2019-Today: [M.Sc. in Machine Learning](https://www.kth.se/en/studies/master/machinelearning/description-1.48533) at [KTH Royal Institute of Technology](https://www.kth.se/en) where I helped as a TA for [KTH Advanced Machine Learning course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) and ontributed to the division of [Robotics Perception and Learning (RPL)](https://www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439) as a research engineer.
+- 2018-2019: Worked as a robotics perception engineer at [XYZ Robotics](http://en.xyzrobotics.ai/).
+- 2017-2018: [Researched](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl) on the application of modern computer vision techniques to robotic tactile feedback at the [MCube Lab](https://fme.upc.edu/en) in the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/).
+- 2013-2017: Simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) center at the [Polytechnic University of Catalonia (UPC)](https://www.upc.edu/en).
 
 
 ## About my GitHub
