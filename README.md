@@ -4,7 +4,7 @@ My life in bulletpoints:
 
 - 2021-Today: __Machine learning engineer intern__ @[EA Games](https://www.ea.com/) where I am conducting my M.Sc. thesis on Successor Features (SF) for knowledge transfer in Reinforcement Learning to improve automatic game-testing.
 - 2019-Today: [M.Sc. in Machine Learning](https://www.kth.se/en/studies/master/machinelearning/description-1.48533) at [KTH Royal Institute of Technology](https://www.kth.se/en) where I helped as a __TA__ for [KTH Advanced Machine Learning course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) and contributed to the division of [Robotics Perception and Learning (RPL)](https://www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439) as a __research engineer__.
-- 2018-2019: __Perception engineer__ @[XYZ Robotics](http://en.xyzrobotics.ai/), where I worked for robotic pick-and-place [applications](https://www.youtube.com/watch?v=mpAhksAeqU4&ab_channel=XYZRobotics).
+- 2018-2019: __Perception engineer__ @[XYZ Robotics](http://en.xyzrobotics.ai/), where I worked on robotic pick-and-place [applications](https://www.youtube.com/watch?v=mpAhksAeqU4&ab_channel=XYZRobotics).
 - 2017-2018: __Research student__ @[MCube Lab](https://fme.upc.edu/en) in the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) where I explored the application of modern computer vision techniques to robotic tactile feedback.
 - 2013-2017: Simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) center at the [Polytechnic University of Catalonia (UPC)](https://www.upc.edu/en).
 
