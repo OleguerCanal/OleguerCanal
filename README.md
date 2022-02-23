@@ -35,8 +35,8 @@ Other "interesting" stuff about me on:
   - [RocketLeague](https://github.com/CampusAI/RocketLeague-RL),
   - [Terrarium](https://github.com/CampusAI/DD2438_Common_Terrarium)
 - __Random stuff:__
- `- Communication between c++ and python: [cpp-python socket](https://github.com/OleguerCanal/cpp-python_socket)
-` - Bayesian Optimization: [HyperParameter-Optimizer](https://github.com/CampusAI/HyperParameter-Optimizer)
+  - Communication between c++ and python: [cpp-python socket](https://github.com/OleguerCanal/cpp-python_socket)
+  - Bayesian Optimization Package: [HyperParameter-Optimizer](https://github.com/CampusAI/HyperParameter-Optimizer)
 
 <!--
 [![Oleguer's github stats](https://github-readme-stats.vercel.app/api?username=OleguerCanal)](https://github.com/anuraghazra/github-readme-stats)
