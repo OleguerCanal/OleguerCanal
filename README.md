@@ -23,7 +23,7 @@ Other "interesting" stuff about my "fascinating" persona on:
   - [CampusAI](https://campusai.github.io/), containing notes on our most interesting ML_related readings (created with [Federico Taschin](https://github.com/fedetask)).
   - [Algorithmics](https://oleguercanal.github.io/Algorithmics/) containing _very raw_ notes on general software development topics.
 - __Paper re-implementations:__ 
-  - Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM)
+  - [Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM)
   - [Hamiltonian Generative Networks](https://github.com/CampusAI/Hamiltonian-Generative-Networks)
   - [RL-algorithms](https://github.com/OleguerCanal/RL-algorithms)
   - [Toy DeepLearning Framework](https://github.com/OleguerCanal/Toy-DeepLearning-Framework)
