@@ -20,7 +20,12 @@ Other "interesting" stuff about my "fascinating" persona on:
 ## About my GitHub
 
 - __Websites:__
-  - [CampusAI](https://campusai.github.io/), containing notes on our most interesting ML_related readings (created with [Federico Taschin](https://github.com/fedetask)).
+  - [CampusAI](https://campusai.github.io/), containing notes on our most interesting ML_related readings (created with [Federico Taschin](https://github.com/fedetask)). Top posts:
+    - [Dim-Reduction algorithms](https://campusai.github.io/ds/dim_reduction_algos)
+    - [From Expectation Maximization to Variational Inference](https://campusai.github.io/ml/variational_inference)
+    - [Why Generative Models?](https://campusai.github.io/ml/generative_models)
+    - [Sergey Levine DRL course notes](https://campusai.github.io/theory/)
+    - [Paper reviews](https://campusai.github.io/experiments/)
   - [Algorithmics](https://oleguercanal.github.io/Algorithmics/) containing _very raw_ notes on general software development topics.
 - __Paper re-implementations:__ 
   - [Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM)
