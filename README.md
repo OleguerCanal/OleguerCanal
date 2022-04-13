@@ -12,7 +12,7 @@ My life in bulletpoints:
 - 2017: __Research Student__ @[MCube Lab](https://fme.upc.edu/en) at the [MIT](https://www.mit.edu/), explored ML computer vision for robotic tactile feedback.
 - 2013: **B.Sc. Student:** Simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) center at the [Polytechnic University of Catalonia (UPC)](https://www.upc.edu/en).
 
-Other "interesting" stuff about my "fascinating" persona on:
+Other "interesting" stuff on:
   - [LinkedIn](https://www.linkedin.com/in/OleguerCanal/)
   - [Scholar](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl)
   - [CouchSurfing](https://www.couchsurfing.com/people/oleguer-canal)
