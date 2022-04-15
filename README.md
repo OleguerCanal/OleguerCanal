@@ -1,7 +1,4 @@
 ## About me
-Interested in __Machine Learning__ (ML) and __Reinforcement Learning__ (RL) _multi-task and meta-rl in particular_ and have some experience with robotic perception.
-My life in bulletpoints:
-
 - 2022: __Machine Learning Engineer__ @[HappyScribe](https://www.happyscribe.com/), working on automatic speech recognition.
 - 2021: __Machine Learning Engineer Intern__ @[Spotify](https://www.spotify.com/), implemented a two-stage recommender system to improve search results.
 - 2021: __Machine Learning Engineer Intern__ @[EA Games](https://www.ea.com/), researched on multi-task RL to improve automatic game-testing.
@@ -21,7 +18,6 @@ Other "interesting" stuff on:
 
 - __Websites:__
   - [CampusAI](https://campusai.github.io/), containing notes on our most interesting ML_related readings (created with [Federico Taschin](https://github.com/fedetask)). Top posts:
-    - [Dim-Reduction algorithms](https://campusai.github.io/ds/dim_reduction_algos)
     - [From Expectation Maximization to Variational Inference](https://campusai.github.io/ml/variational_inference)
     - [Why Generative Models?](https://campusai.github.io/ml/generative_models)
     - [Sergey Levine DRL course notes](https://campusai.github.io/theory/)
@@ -42,6 +38,11 @@ Other "interesting" stuff on:
 - __Random stuff:__
   - Communication between c++ and python: [cpp-python socket](https://github.com/OleguerCanal/cpp-python_socket)
   - Bayesian Optimization Package: [HyperParameter-Optimizer](https://github.com/CampusAI/HyperParameter-Optimizer)
+
+## About my interests 
+Interested in __Machine Learning__ (ML) and __Reinforcement Learning__ (RL) _multi-task and meta-rl in particular_.
+I have some experience with **robotic perception** 🤖 and have flirted a bit with **recommender systems** 🕵️.
+Lately gotten into **automatic speech to text** 🎧.
 
 <!--
 [![Oleguer's github stats](https://github-readme-stats.vercel.app/api?username=OleguerCanal)](https://github.com/anuraghazra/github-readme-stats)
