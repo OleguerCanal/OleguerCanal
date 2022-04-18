@@ -7,7 +7,7 @@
 - 2019: **M.Sc. Student** @[M.Sc. in Machine Learning](https://www.kth.se/en/studies/master/machinelearning/description-1.48533) at [KTH Royal Institute of Technology](https://www.kth.se/en).
 - 2018: __Perception Engineer__ @[XYZ Robotics](http://en.xyzrobotics.ai/), worked on robotic pick-and-place [applications](https://www.youtube.com/watch?v=mpAhksAeqU4&ab_channel=XYZRobotics).
 - 2017: __Research Student__ @[MCube Lab](https://fme.upc.edu/en) at the [MIT](https://www.mit.edu/), explored ML computer vision for robotic tactile feedback.
-- 2013: **B.Sc. Student:** Simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) center at the [Polytechnic University of Catalonia (UPC)](https://www.upc.edu/en).
+- 2013: **B.Sc. Student:** Simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) center @[UPC](https://www.upc.edu/en).
 
 Other "interesting" stuff on:
   - [LinkedIn](https://www.linkedin.com/in/OleguerCanal/)
