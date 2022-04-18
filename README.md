@@ -28,12 +28,9 @@ Other "interesting" stuff on:
   - [Hamiltonian Generative Networks](https://github.com/CampusAI/Hamiltonian-Generative-Networks)
   - [RL-algorithms](https://github.com/OleguerCanal/RL-algorithms)
   - [Toy DeepLearning Framework](https://github.com/OleguerCanal/Toy-DeepLearning-Framework)
-- __Kaggle Competitions:__
-  - [Digit Recognizer](https://github.com/OleguerCanal/kaggle_digit-recognizer)
-  - [SIIM-ACR Pneumothorax Segmentation](https://github.com/OleguerCanal/kaggle_Pneumothorax-Segmentation)
 - __RL projects:__
-  - [Self-Driving](https://github.com/OleguerCanal/KTH_MA-autonomous-driving),
-  - [RocketLeague](https://github.com/CampusAI/RocketLeague-RL),
+  - [Self-Driving](https://github.com/OleguerCanal/KTH_MA-autonomous-driving)
+  - [RocketLeague](https://github.com/CampusAI/RocketLeague-RL)
   - [Terrarium](https://github.com/CampusAI/DD2438_Common_Terrarium)
 - __Random stuff:__
   - Communication between c++ and python: [cpp-python socket](https://github.com/OleguerCanal/cpp-python_socket)
