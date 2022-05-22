@@ -12,6 +12,7 @@
 Other "interesting" stuff on:
   - [LinkedIn](https://www.linkedin.com/in/OleguerCanal/)
   - [Scholar](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl)
+  - [Medium](https://medium.com/@oleguer.canal)
   - [CouchSurfing](https://www.couchsurfing.com/people/oleguer-canal)
 
 ## About my GitHub
