@@ -18,9 +18,9 @@ Other "interesting" stuff on:
 ## About my GitHub
 
 - __Top posts:__
+  - [The Attention Mechanism Zoo](https://medium.com/@oleguer.canal/the-attention-mechanism-zoo-309c05768ed9)
   - [From Expectation Maximization to Variational Inference](https://campusai.github.io/ml/variational_inference)
   - [Why Generative Models?](https://campusai.github.io/ml/generative_models)
-  - [The Attention Mechanism Zoo](https://medium.com/@oleguer.canal/the-attention-mechanism-zoo-309c05768ed9)
   - [Sergey Levine DRL course notes](https://campusai.github.io/theory/)
   - [Random paper reviews](https://campusai.github.io/experiments/)
 - __Websites:__
