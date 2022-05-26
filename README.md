@@ -17,7 +17,7 @@ Other "interesting" stuff on:
 
 ## About my GitHub
 
-- __Posts:__
+- __Top posts:__
   - [From Expectation Maximization to Variational Inference](https://campusai.github.io/ml/variational_inference)
   - [Why Generative Models?](https://campusai.github.io/ml/generative_models)
   - [The Attention Mechanism Zoo](https://medium.com/@oleguer.canal/the-attention-mechanism-zoo-309c05768ed9)
@@ -31,13 +31,11 @@ Other "interesting" stuff on:
   - [Hamiltonian Generative Networks](https://github.com/CampusAI/Hamiltonian-Generative-Networks)
   - [RL-algorithms](https://github.com/OleguerCanal/RL-algorithms)
   - [Toy DeepLearning Framework](https://github.com/OleguerCanal/Toy-DeepLearning-Framework)
-- __RL projects:__
-  - [Self-Driving](https://github.com/OleguerCanal/KTH_MA-autonomous-driving)
-  - [RocketLeague](https://github.com/CampusAI/RocketLeague-RL)
-  - [Terrarium](https://github.com/CampusAI/DD2438_Common_Terrarium)
 - __Random stuff:__
   - Communication between c++ and python: [cpp-python socket](https://github.com/OleguerCanal/cpp-python_socket)
   - Bayesian Optimization Package: [HyperParameter-Optimizer](https://github.com/CampusAI/HyperParameter-Optimizer)
+  - [RL in self-driving](https://campusai.github.io/experiments/autonomous_driving)
+  - [ANN Surgery](https://campusai.github.io/experiments/nn_surgery)
 
 ## About my interests 
 Interested in __Machine Learning__ (ML) and __Reinforcement Learning__ (RL) _multi-task and meta-rl in particular_.
