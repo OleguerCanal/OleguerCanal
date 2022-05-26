@@ -17,12 +17,14 @@ Other "interesting" stuff on:
 
 ## About my GitHub
 
+- __Posts:__
+  - [From Expectation Maximization to Variational Inference](https://campusai.github.io/ml/variational_inference)
+  - [Why Generative Models?](https://campusai.github.io/ml/generative_models)
+  - [The Attention Mechanism Zoo](https://medium.com/@oleguer.canal/the-attention-mechanism-zoo-309c05768ed9)
+  - [Sergey Levine DRL course notes](https://campusai.github.io/theory/)
+  - [Random paper reviews](https://campusai.github.io/experiments/)
 - __Websites:__
-  - [CampusAI](https://campusai.github.io/), containing notes on our most interesting ML_related readings (created with [Federico Taschin](https://github.com/fedetask)). Top posts:
-    - [From Expectation Maximization to Variational Inference](https://campusai.github.io/ml/variational_inference)
-    - [Why Generative Models?](https://campusai.github.io/ml/generative_models)
-    - [Sergey Levine DRL course notes](https://campusai.github.io/theory/)
-    - [Paper reviews](https://campusai.github.io/experiments/)
+  - [CampusAI](https://campusai.github.io/), containing notes on our most interesting ML-related readings (created with [Federico Taschin](https://github.com/fedetask)). Top posts:
   - [Algorithmics](https://oleguercanal.github.io/Algorithmics/) containing _very raw_ notes on general software development topics.
 - __Paper re-implementations:__ 
   - [Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM)
