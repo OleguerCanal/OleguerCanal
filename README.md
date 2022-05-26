@@ -10,10 +10,10 @@
 - 2013: **B.Sc. Student:** Simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) @[UPC](https://www.upc.edu/en).
 
 Other "interesting" stuff on:
-  - [LinkedIn](https://www.linkedin.com/in/OleguerCanal/)
-  - [Scholar](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl)
-  - [Medium](https://medium.com/@oleguer.canal)
-  - [CouchSurfing](https://www.couchsurfing.com/people/oleguer-canal)
+[LinkedIn](https://www.linkedin.com/in/OleguerCanal/), 
+[Scholar](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl), 
+[Medium](https://medium.com/@oleguer.canal), 
+[CouchSurfing](https://www.couchsurfing.com/people/oleguer-canal)
 
 ## About my GitHub
 
@@ -34,13 +34,13 @@ Other "interesting" stuff on:
 - __Random stuff:__
   - Communication between c++ and python: [cpp-python socket](https://github.com/OleguerCanal/cpp-python_socket)
   - Bayesian Optimization Package: [HyperParameter-Optimizer](https://github.com/CampusAI/HyperParameter-Optimizer)
-  - [RL in self-driving](https://campusai.github.io/experiments/autonomous_driving)
+  - [Reinforcement Learning in self-driving](https://campusai.github.io/experiments/autonomous_driving)
   - [ANN Surgery](https://campusai.github.io/experiments/nn_surgery)
 
 ## About my interests 
-Interested in __Machine Learning__ (ML) and __Reinforcement Learning__ (RL) _multi-task and meta-rl in particular_.
+Interested in __Machine Learning__ and __Reinforcement Learning__ _multi-task and meta-rl in particular_.
 I have some experience with **robotic perception** 🤖 and have flirted a bit with **recommender systems** 🕵️.
-Lately gotten into **automatic speech to text** 🎧.
+Lately gotten into **automatic speech-to-text** 🎧.
 
 <!--
 [![Oleguer's github stats](https://github-readme-stats.vercel.app/api?username=OleguerCanal)](https://github.com/anuraghazra/github-readme-stats)
