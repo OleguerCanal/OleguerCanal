@@ -24,7 +24,7 @@ Other "interesting" stuff on:
   - [Sergey Levine DRL course notes](https://campusai.github.io/theory/)
   - [Random paper reviews](https://campusai.github.io/experiments/)
 - __Websites:__
-  - [CampusAI](https://campusai.github.io/), containing notes on our most interesting ML-related readings (created with [Federico Taschin](https://github.com/fedetask)). Top posts:
+  - [CampusAI](https://campusai.github.io/), containing notes on our most interesting ML-related readings (created with [Federico Taschin](https://github.com/fedetask))
   - [Algorithmics](https://oleguercanal.github.io/Algorithmics/) containing _very raw_ notes on general software development topics.
 - __Paper re-implementations:__ 
   - [Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM)
