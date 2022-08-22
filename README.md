@@ -40,7 +40,7 @@ Other "interesting" stuff on:
 ## About my interests 
 Interested in __Machine Learning__ and __Reinforcement Learning__ _multi-task and meta-rl in particular_.
 I have some experience with **robotic perception** 🤖 and have flirted a bit with **recommender systems** 🕵️.
-Lately gotten into **automatic speech-to-text** 🎧.
+Lately got into **automatic speech-to-text** 🎧.
 
 <!--
 [![Oleguer's github stats](https://github-readme-stats.vercel.app/api?username=OleguerCanal)](https://github.com/anuraghazra/github-readme-stats)
