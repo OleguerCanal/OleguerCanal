@@ -15,7 +15,7 @@ Other "interesting" stuff on:
 [Medium](https://medium.com/@oleguer.canal), 
 [CouchSurfing](https://www.couchsurfing.com/people/oleguer-canal)
 
-## About my GitHub
+## More things about me
 
 - __Top posts:__
   - [The Attention Mechanism Zoo](https://medium.com/@oleguer.canal/the-attention-mechanism-zoo-309c05768ed9)
