@@ -1,7 +1,7 @@
 ## About me
 - 2022: __Machine Learning Engineer__ @[HappyScribe](https://www.happyscribe.com/), working on automatic speech recognition.
 - 2021: __Machine Learning Engineer Intern__ @[Spotify](https://www.spotify.com/), implemented a two-stage recommender system to improve search results.
-- 2021: __Machine Learning Engineer Intern__ @[EA Games](https://www.ea.com/), researched on multi-task RL to improve automatic game-testing.
+- 2021: __Machine Learning Engineer Intern__ @[EA Games](https://www.ea.com/), researched on multi-task reinforcement learning to improve automatic game-testing.
 - 2020: __Teacher Assistant__ @[KTH Advanced Machine Learning course](https://www.kth.se/student/kurser/kurs/DD2434?l=en), teached ML [**fun**damentals](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).
 - 2019: __Research Engineer__ @[Robotics Perception and Learning (RPL)](https://www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439), developed a vision module for robotic pick-and-place.
 - 2019: **M.Sc. Student** [M.Sc. in Machine Learning](https://www.kth.se/en/studies/master/machinelearning/description-1.48533) @[KTH Royal Institute of Technology](https://www.kth.se/en).
