@@ -14,10 +14,12 @@ Other "interesting" stuff on:
 [Scholar](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl), 
 [Medium](https://medium.com/@oleguer.canal), 
 [CouchSurfing](https://www.couchsurfing.com/people/oleguer-canal)
+[Blog](https://bocachancla.blog/)
 
 ## More things about me
 
 - __Top posts:__
+  - [Hippos and Mambas](https://bocachancla.blog/posts/mamba/)
   - [The Attention Mechanism Zoo](https://medium.com/@oleguer.canal/the-attention-mechanism-zoo-309c05768ed9)
   - [From Expectation Maximization to Variational Inference](https://campusai.github.io/ml/variational_inference)
   - [Why Generative Models?](https://campusai.github.io/ml/generative_models)
