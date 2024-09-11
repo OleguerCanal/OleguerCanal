@@ -10,11 +10,12 @@
 - 2013: **B.Sc. Student:** Simultaneously studied a [B.Sc. in Mathematics](https://fme.upc.edu/en) and a [B.Sc. in Industrial Engineering](https://etseib.upc.edu/en) through [CFIS](https://cfis.upc.edu/en) @[UPC](https://www.upc.edu/en).
 
 Other "interesting" stuff on:
+[ML Blog](https://bocachancla.blog/),
 [LinkedIn](https://www.linkedin.com/in/OleguerCanal/), 
 [Scholar](https://scholar.google.com/citations?user=9cJOtv0AAAAJ&hl), 
 [Medium](https://medium.com/@oleguer.canal), 
 [CouchSurfing](https://www.couchsurfing.com/people/oleguer-canal)
-[Blog](https://bocachancla.blog/)
+
 
 ## More things about me
 
