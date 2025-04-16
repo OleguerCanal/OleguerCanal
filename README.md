@@ -1,6 +1,6 @@
 ## About me
 - 2022: __Machine Learning Engineer__ @[HappyScribe](https://www.happyscribe.com/), working on automatic speech recognition.
-- 2021: __Machine Learning Engineer Intern__ @[Spotify](https://www.spotify.com/), implemented a two-stage recommender system to improve search results.
+- 2021: __Machine Learning Engineer Intern__ @[Spotify](https://www.spotify.com/), improved the search engine by filtering out unpromising results early on in the retrieval process (implemented a two-stage ranking system).
 - 2021: __Machine Learning Engineer Intern__ @[EA Games](https://www.ea.com/), researched on multi-task Reinforcement Learning to improve automatic game-testing.
 - 2020: __Teacher Assistant__ @[KTH Advanced Machine Learning course](https://www.kth.se/student/kurser/kurs/DD2434?l=en), teached Machine Learning [**fun**damentals](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).
 - 2019: __Research Engineer__ @[Robotics Perception and Learning (RPL)](https://www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439), developed a vision module for robotic pick-and-place.
@@ -20,16 +20,16 @@ Other "interesting" stuff on:
 ## More things about me
 
 - __Top posts:__
-  - [Hippos and Mambas](https://bocachancla.blog/posts/mamba/)
+  - [Mamba-1](https://bocachancla.blog/posts/mamba/)
+  - [Mamba-2, Linear Transfomrers, and many ramblings](https://bocachancla.blog/posts/sequence/)
+  - [Beyond pre-training: SFT, RLHF, and PPO](https://bocachancla.blog/posts/rlhf/)
   - [The Attention Mechanism Zoo](https://medium.com/@oleguer.canal/the-attention-mechanism-zoo-309c05768ed9)
-  - [From Expectation Maximization to Variational Inference](https://campusai.github.io/ml/variational_inference)
-  - [Why Generative Models?](https://campusai.github.io/ml/generative_models)
   - [Sergey Levine DRL course notes](https://campusai.github.io/theory/)
   - [Random paper reviews](https://campusai.github.io/experiments/)
 - __Websites:__
   - [Bocachancla](https://bocachancla.blog/): AI stuff blog.
-  - [CampusAI](https://campusai.github.io/), containing notes on our most interesting ML-related readings (created with [Federico Taschin](https://github.com/fedetask))
-  - [Algorithmics](https://oleguercanal.github.io/Algorithmics/) containing _very raw_ notes on general software development topics.
+  - [CampusAI](https://campusai.github.io/): Another AI stuff blog containing _very raw_ notes on our most interesting ML-related readings (created with [Federico Taschin](https://github.com/fedetask))
+  - [Algorithmics](https://oleguercanal.github.io/Algorithmics/): Computer science stuff blog containing _very VERY raw_ notes on general software development topics.
 - __Paper re-implementations:__ 
   - [Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM)
   - [Hamiltonian Generative Networks](https://github.com/CampusAI/Hamiltonian-Generative-Networks)
