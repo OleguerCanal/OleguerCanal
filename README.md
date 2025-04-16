@@ -28,7 +28,7 @@ Other "interesting" stuff on:
   - [Random paper reviews](https://campusai.github.io/experiments/)
 - __Websites:__
   - [Bocachancla](https://bocachancla.blog/): AI stuff blog.
-  - [CampusAI](https://campusai.github.io/): Another AI stuff blog containing _very raw_ notes on our most interesting ML-related readings (created with [Federico Taschin](https://github.com/fedetask))
+  - [CampusAI](https://campusai.github.io/): Another AI stuff blog containing _very raw_ notes on ML-related readings (created with [Federico Taschin](https://github.com/fedetask))
   - [Algorithmics](https://oleguercanal.github.io/Algorithmics/): Computer science stuff blog containing _very VERY raw_ notes on general software development topics.
 - __Paper re-implementations:__ 
   - [Gaussian Process Latent Variable Models](https://github.com/OleguerCanal/GPLVM)
