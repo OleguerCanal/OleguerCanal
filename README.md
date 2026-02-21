@@ -22,6 +22,7 @@ Other "interesting" stuff on:
 - __Top posts:__
   - [Mamba-1](https://bocachancla.blog/posts/mamba/)
   - [Mamba-2, Linear Transfomrers, and many ramblings](https://bocachancla.blog/posts/sequence/)
+  - [Building a Diffusion Video Model](https://bocachancla.blog/posts/dit/)
   - [Beyond pre-training: SFT, RLHF, and PPO](https://bocachancla.blog/posts/rlhf/)
   - [The Attention Mechanism Zoo](https://medium.com/@oleguer.canal/the-attention-mechanism-zoo-309c05768ed9)
   - [Sergey Levine DRL course notes](https://campusai.github.io/theory/)
