@@ -1,5 +1,6 @@
 ## About me
-- 2022: __Machine Learning Engineer__ @[HappyScribe](https://www.happyscribe.com/), working on automatic speech recognition.
+- 2026: __Machine Learning Engineer__ @[Apple](https://www.apple.com/), working on large-scale AI/ML systems within Apple’s Services Team by translating the latest research advancements into customer-facing products.
+- 2022: __Machine Learning Engineer__ @[HappyScribe](https://www.happyscribe.com/), trained and maintained speech understanding models.
 - 2021: __Machine Learning Engineer Intern__ @[Spotify](https://www.spotify.com/), improved the search engine by filtering out unpromising results early on in the retrieval process (implemented a two-stage ranking system).
 - 2021: __Machine Learning Engineer Intern__ @[EA Games](https://www.ea.com/), researched on multi-task Reinforcement Learning to improve automatic game-testing.
 - 2020: __Teacher Assistant__ @[KTH Advanced Machine Learning course](https://www.kth.se/student/kurser/kurs/DD2434?l=en), teached Machine Learning [**fun**damentals](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).
